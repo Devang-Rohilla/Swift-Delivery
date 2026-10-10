@@ -1,0 +1,5 @@
+# Ignore the Datasets directory and all its contents
+Datasets/
+
+# Ignore all CSV files in the project
+*.csv
